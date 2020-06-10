@@ -1,0 +1,13 @@
+{
+    "name": "gunnar-correa/aula-05",
+    "description": "Projeto sobre PHP",
+    "authors": [
+        {
+            "name": "Gunnar Correa",
+            "email": "gunnercorrea@dfdfd.con"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
